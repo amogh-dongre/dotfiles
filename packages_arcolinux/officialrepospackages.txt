@@ -13,6 +13,7 @@ arandr
 arc-gtk-theme
 arch-install-scripts
 archiso
+archlinux-wallpaper
 arcolinux-bin-git
 arcolinux-config-dwm-git
 arcolinux-conky-collection-git
@@ -184,6 +185,7 @@ lightdm-webkit2-greeter
 linux
 linux-atm
 linux-firmware
+linux-zen
 logrotate
 lsb-release
 lsscsi
@@ -255,6 +257,7 @@ pptpclient
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
+python-black
 python-pyparted
 python2-dbus
 python2-pyxdg
@@ -277,7 +280,6 @@ sdparm
 sed
 sg3_utils
 smartmontools
-spectrwm
 speedtest-cli
 splix
 spotify
@@ -372,9 +374,6 @@ xfsprogs
 xfwm4
 xl2tpd
 xlockmore
-xmobar
-xmonad
-xmonad-contrib
 xorg-bdftopcf
 xorg-iceauth
 xorg-mkfontscale

@@ -1,7 +1,4 @@
 autojump
-dmenu-distrotube-git
-dwm-distrotube-git
-dwmblocks-distrotube-git
 emacs-projectile-git
 mkinitcpio-openswap
 ncpamixer
@@ -11,6 +8,5 @@ nerd-fonts-ubuntu-mono
 otf-nerd-fonts-fira-code
 pnmixer-git
 shell-color-scripts
-st-distrotube-git
 ttf-kannada-font
 ttf-symbola-free
