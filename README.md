@@ -1,2 +1,2 @@
 # dotfiles
-stores all of my configs
+stores all of my projects
