@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # this is a python implementation of bubblesorting an array :)
-def Bubble_sorter(arr):
+def Bubble_sorter():
     for i in range(0, len(arr) - 1):
         if arr[i] < arr[i + 1]:
             temp = arr[i]
