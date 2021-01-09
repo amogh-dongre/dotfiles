@@ -33,5 +33,5 @@ def sort_files_in_a_folder(mypath):
 
 
 if __name__ == "__main__":
-    mypath = "/home/dt/Pictures"
+    mypath = "/home/dt/Downloads"
     sort_files_in_a_folder(mypath)
