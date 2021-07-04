@@ -25,7 +25,7 @@ def decimalToBinary(n):
 
 # Driver code
 if __name__ == "__main__":
-    binaryToDecimal(100)
-    binaryToDecimal(101)
-    binaryToDecimal(1001)
-    decimalToBinary(75)
+#    binaryToDecimal(100)
+#   binaryToDecimal(101)
+#  binaryToDecimal(1001)
+    decimalToBinary(22)
